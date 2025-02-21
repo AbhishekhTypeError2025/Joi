@@ -1,0 +1,91 @@
+[
+  {
+    "name": "principal",
+    "email": "principal@gmail.com",
+    "userId": "SG21800",
+    "password": "12345",
+    "role": "principal"
+  },
+  {
+    "name": "teacher1",
+    "email": "teacher1@gmail.com",
+    "userId": "SG21900",
+    "suspend": 0,
+    "password": "12345",
+    "role": "teacher"
+  },
+  {
+    "name": "teacher2",
+    "email": "teacher12@gmail.com",
+    "userId": "SG21901",
+    "suspend": 10,
+    "password": "12345",
+    "role": "teacher",
+    "date": 1739958667265
+  },
+  {
+    "name": "teacher3",
+    "email": "teacher123@gmail.com",
+    "userId": "SG21903",
+    "suspend": 0,
+    "password": "12345",
+    "role": "teacher"
+  },
+  {
+    "name": "teacher4",
+    "email": "teacher124@gmail.com",
+    "userId": "SG21904",
+    "suspend": 0,
+    "password": "12345",
+    "role": "teacher"
+  },
+  {
+    "name": "teacher5",
+    "email": "teacher125@gmail.com",
+    "userId": "SG21905",
+    "suspend": 0,
+    "password": "12345",
+    "role": "teacher"
+  },
+  {
+    "name": "teacher6",
+    "email": "teacher126@gmail.com",
+    "userId": "SG21906",
+    "suspend": 0,
+    "password": "12345",
+    "role": "teacher"
+  },
+  {
+    "name": "student1",
+    "email": "student121@gmail.com",
+    "userId": "SG22901",
+    "suspend": 10,
+    "password": "12345",
+    "role": "student",
+    "date": 1739958692912
+  },
+  {
+    "name": "student2",
+    "email": "student122@gmail.com",
+    "userId": "SG22902",
+    "suspend": 0,
+    "password": "12345",
+    "role": "student"
+  },
+  {
+    "name": "student3",
+    "email": "student123@gmail.com",
+    "userId": "SG22903",
+    "suspend": 0,
+    "password": "12345",
+    "role": "student"
+  },
+  {
+    "name": "student4",
+    "email": "student124@gmail.com",
+    "userId": "SG22904",
+    "suspend": 0,
+    "password": "12345",
+    "role": "student"
+  }
+]

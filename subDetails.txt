@@ -1,0 +1,38 @@
+[
+  {
+    "name": "teacher1",
+    "userId": "SG21900",
+    "subject": "mathematics",
+    "subcode": "MCS-101"
+  },
+  {
+    "name": "teacher2",
+    "userId": "SG21901",
+    "subject": "physics",
+    "subcode": "PCS-201"
+  },
+  {
+    "name": "teacher3",
+    "userId": "SG21903",
+    "subject": "chemistry",
+    "subcode": "CCS-301"
+  },
+  {
+    "name": "teacher4",
+    "userId": "SG21904",
+    "subject": "biology",
+    "subcode": "BCS-401"
+  },
+  {
+    "name": "teacher5",
+    "userId": "SG21905",
+    "subject": "hindi",
+    "subcode": "HCS-501"
+  },
+  {
+    "name": "teacher6",
+    "userId": "SG21906",
+    "subject": "english",
+    "subcode": "ECS-501"
+  }
+]

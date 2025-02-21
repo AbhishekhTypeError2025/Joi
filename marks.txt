@@ -1,0 +1,14 @@
+[
+  {
+    "userId": "SG22901",
+    "english": 90,
+    "mathematics": 89,
+    "chemistry": 90
+  },
+  {
+    "userId": "SG22904",
+    "english": 90,
+    "mathematics": 89,
+    "chemistry": 90
+  }
+]
